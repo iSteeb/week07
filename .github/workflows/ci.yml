@@ -4,6 +4,10 @@ on:
   # Manual trigger for the workflow
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
 
 jobs:
 
