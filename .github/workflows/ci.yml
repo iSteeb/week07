@@ -23,6 +23,7 @@ jobs:
       VITE_COURSE_SERVICE_URL: http://localhost
       VITE_STUDENT_SERVICE_URL: http://localhost
       VITE_LECTURER_SERVICE_URL: http://localhost
+      VITE_ENROLLMENT_SERVICE_URL: http://localhost
 
     steps:
 
